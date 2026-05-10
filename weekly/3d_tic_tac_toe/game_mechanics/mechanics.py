@@ -1,4 +1,5 @@
 import random
+from .all_winning_moves import winning_moves
 
 data = {
     "user_moves": [],
